@@ -1,0 +1,1 @@
+{"uuid":"849461b4-3732-47b0-bbd2-206abcbf2c74","name":"p.project_rb","children":["e50afed4-4143-4144-9468-4b14f925ab85"],"befores":[{"name":"deleteBoard","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690399566916,"stop":1690399566922}],"afters":[],"start":1690399566892,"stop":1690399569123}
